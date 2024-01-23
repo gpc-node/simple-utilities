@@ -1,7 +1,7 @@
 {
   "name": "simple-utilities",
-  "version": "0.1.2",
-  "description": "A sample NPM package with TypeScript and Jest",
+  "version": "0.1.3",
+  "description": "Efficient npm tools for streamlined development tasks",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
