@@ -1,8 +1,23 @@
-# simple-utils
+# simple-utils <a href="mail-pcode027@gmail.com"><img src="https://img.shields.io/badge/author-pcode027@gmail.com-blue.svg" alt="Author"></a>
 Simplify development with `Simple-Utilities`, a lightweight npm package offering essential tools for efficient coding, ensuring ease and speed in common tasks.
+
+## Installation
+To install the package, use the following command:
+```sh
+npm install --save simple-utilities
+```
+
+### Loading and configuring the module
+You can initialize the Utilities using either CommonJS or ES6 syntax:
+```javascript
+// CommonJS
+const Utils = require("simple-utilities");
+
+// ES6
+import Utils from 'simple-utilities';
+```
 # Usages
 ```js
-import Utils from './index';
 
 // Check Input is string or not
 console.log(Utils.isString('abc'));      // true
