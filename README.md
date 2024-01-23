@@ -1,5 +1,5 @@
 # simple-utils
-
+Simplify development with `Simple-Utilities`, a lightweight npm package offering essential tools for efficient coding, ensuring ease and speed in common tasks.
 # Usages
 ```js
 import Utils from './index';
