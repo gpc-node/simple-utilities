@@ -1,6 +1,6 @@
 {
-  "name": "simple-utils",
-  "version": "0.1.1",
+  "name": "simple-utilities",
+  "version": "0.1.2",
   "description": "A sample NPM package with TypeScript and Jest",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
